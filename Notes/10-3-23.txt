@@ -1,0 +1,5 @@
+- Once bard crashed it told me that it was unable to get response and I should check 
+  my cookie values and or check my internet/google account connection. Both were working.
+
+- CHATGPT was not working for me here. It told me that my token was invlaid. It said I was providing the wrong token.
+
