@@ -15,9 +15,8 @@ import re
 
 #load .env values
 load_dotenv()
-DISCORD_TOKEN = 'MTE1MzcxNjY0MDkyMDM5MTcxMA.G_uurt.2gfMbg-H7bGxbXdwX-T6JD17d1L_ym84xt2Dh0'
-BARD_TOKEN = ' cQilbwTvJHMGvsRBYJwI3--BTsG7UqekYHAAvemer-TpTD-0CdyfDPayfMjecuFQGL1bTg.'
-PALM_KEY = 'AIzaSyDbSifLXjB03SKc6zzmpj4vvmge9BKMK8c'
+DISCORD_TOKEN = os.getenv.DISCORD_TOKEN
+PALM_KEY = os.getenv.PALM_KEY
 
 #max characters that discord allows per message
 DISCORD_MAX_CHARS = 2000
